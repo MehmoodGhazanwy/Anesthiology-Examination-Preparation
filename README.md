@@ -101,6 +101,17 @@
     | Oxygen | 0.020 |32 | 1.33 | −183 |
     | Xenon | 0.022 |131 | 5.46 | −108 |
 
+     | Browser | Version |
+     |---- | --------- |
+     | Chrome | latest |
+     | Firefox | latest |
+     | Edge | 2 most recent major versions |
+     | IE | 11, 10, 9 (Compatibility mode is not supported) |
+     | Safari | 2 most recent major versions |
+     | IE Mobile | 11 |
+     | iOS | 2 most recent major versions |
+     | Android | 7.0, 6.0, 5.0, 5.1, 4.4 |
+
 10. ##### Due to an allergic reaction, a patient has severe tracheal edema that uniformly narrows the trachea from the vocal cord s to the carina. Compared with breathing 100% oxygen, for a given inspiratory force, airflow will be increased to the greatest degree by diluting the oxygen with
     1. helium
     2. nitrogen
