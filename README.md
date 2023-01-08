@@ -129,6 +129,7 @@
     5. xenon
 
     Answer - > nitrous oxide  
+    [Explanation](#Explanation-Question-10)
 
 11. #####  A patient with an intraluminal tracheal tumor has severe narrowing of the airway resulting in an air passage resem bling a pinhole. Compared with breathing 100% oxygen, for a given inspiratory force, airflow will be increased to the greatest degree by diluting the oxygen with
     1. diethyl ether
