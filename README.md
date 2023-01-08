@@ -81,7 +81,14 @@
     4. Yes, because the leakage current is greater than 5 mA
     5. Yes, because the leakage current is greater than 10 mA.
 
-    Answer -> (option 4 ) Yes, because the leakage current is greater than 5 mA
+    Answer -> (option 4 ) Yes, because the leakage current is greater than 5 mA  
+    *** Explanation *** 
+    The leakage current due to the extension cords will be given by Ohm’s law, I = E/ Z,  
+    where I is current in amperes, E is voltage in volts, and Z is impedance in ohms.
+    In this circuit, since the only contribution to impedance is capacitive reactance, 
+    the potential leakage current is 6.8 mA at 120 V. Since the typical line isolation 
+    monitor will alarm when the potential leakage current is above 5 mA, the line
+    isolation monitor will indeed alarm
 
 8. #### In ord er to perform a meta-analysis, a researcher
     1. must show significance at a very high probability level (e.g., p < 0.001)
@@ -90,7 +97,11 @@
     4. designs a study that takes place at numerous (e.g., > 100) independent clinical sites
     5. studies numerous independent parameters that evaluate an intervention (e.g., drug treatment)
 
-    Answe -> combines the results from several similar studies
+    Answe -> combines the results from several similar studies  
+    *** Explanation ***  
+    In a meta-analysis, several studies that measured similar outcome variable(s) 
+    are combined, typically to increase the statistical power that is derived
+    from a larger number of study subjects.  
 
 9. #### The electrical current, often called the “let-go cu rrent,” above which contraction of the finger flexors is unable to be overcome by voluntarily contracting the finger extensors is approximately
     1. 0.15 mA
@@ -99,7 +110,12 @@
     4. 150 mA
     5. 1.5 A
 
-    Answer ->  15 mA
+    Answer ->  15 mA  
+    *** Explanation *** 
+    When electrical currents of 10-20 mA are applied to the upper extremity, 
+    sustained muscle contraction occurs of a magnitude that cannot be overcome.
+    If the individual is holding onto a wire, he or she probably will not be
+    able to let go.  
 
 #### DIRECTIONS: Use the following table to answer Questions 10-12:
 
@@ -367,4 +383,16 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
 ##### Explanation-Question-6
     The three extension cords represent reactances connected in parallel. When three identical reactance
     values are connected in parallel, the resulting reactance value is one-third that of each individual 
-    unit..
+    unit..  
+
+##### Explanation-Question-10
+    Laminar flow in a tube is governed by Poiseuille’s law that relates laminar flow to the 4th 
+    power of the radius: 
+    ``` math 
+     Flow = πpr^4 / 8vl
+    ```
+    where p is the p ressure, r is the radius of the tube,
+    v is the viscosity of the gas, and l is the length of the tube.
+    Since flow is inversely proportional to viscosity, the flow will be increased to
+    the greatest degree by diluting oxygen with nitrous oxide, the gas that has the 
+    lowest viscosity among the choices
