@@ -12,11 +12,11 @@
     5. 80%
 
     Answer ->(2 option)  50%   
-***Explanation*** :: The patient’s alveolar oxygen concentration is estimated from the alveolar gas equation:
+    ***Explanation*** :: The patient’s alveolar oxygen concentration is estimated from the alveolar gas equation:
     ![ScreenShot](images/q-1.png)  
-* Assuming a value of 0.8 for the respiratory quotient, the patient’s alveolar oxygen concentration would be approximately 222 mm
+    * Assuming a value of 0.8 for the respiratory quotient, the patient’s alveolar oxygen concentration would be approximately 222 mm
     Hg when breathing 50% oxygen. The patient’s arterial oxygen concentration would therefore be approximately 72 mm Hg.  
-    
+
     
 
 2. #### A clinician wishes to perform a single-breath induction with sevoflu rane and exceed the maximum sevoflurane concentration supplied by the vaporizer. She fills a 3-L reservoir bag with oxygen and adds 2 mL of sevoflurane liquid to the bag. What will the  concentration of sevoflurane vapor be in the reservoir bag? Assume the operating room is at sea level and the room temperature is 20°C. The ideal gas constant is 0.082 L-atm-°K-1-mole-1, the specific gravity of sevoflurane is 1.52, and its molecular weight is 200 g/ mol.
@@ -26,7 +26,9 @@
     4. 16.1%
     5. 18.5%
     
-    Answer ->
+    Answer ->(1 option )12.2 %  
+    *** Expanation *** (#explanation-Question-2)
+
 
 3. #### In the typical operating room, patients lose heat via all of the following mechanisms EXCEPT
     1. sublimation
@@ -332,3 +334,7 @@ Answer ->
 
 Answer -> 
     
+##### explanation-Question-2
+    A volume of 2 mL of sevoflurane liquid has a mass of 3.04 g corresponding to 0.0152 moles.  
+    The volume of an ideal gas, V, is nRT/ P = (0.0152) × (0.082) × (273 + 20) = 0.365 L. A  
+    volume of 0.365 L of sevoflurane vapor in the 3-L reservoir bag represents a concentration of 12.2%.  
