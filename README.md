@@ -91,7 +91,7 @@
 
 #### DIRECTIONS: Use the following table to answer Questions 10-12:
         | Gas or vapor | Viscosity(centipoises) | Molecular weight(g/mol) | Density(kg/m3) | Boiling point(C) |
-        |-------- | ------ | ------| ------- |-------- |
+        | ------- | --------- | ------- | ------- | -------- |
         | Argon | 0.022 | 39.9 | 1.66 | −186 |
         | Carbon dioxide | 0.0145 | 44 | 1.82 | −57 |
         | Diethyl ether | 0.00075 | 74 | 3.08 | 35 | 
