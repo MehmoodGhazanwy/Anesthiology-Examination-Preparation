@@ -339,6 +339,7 @@ Answer ->(8) The unit of electrical power is the Watt.
 34. ##### The electrical impedance of an anesthesiologist measured from the person’s left hand to right hand.
 
 Answer ->(6) The unit of electrical resistance is the Ohm.
+
 -------------------------------------------------------------------------------------------------------------------------- 
 
 ##### Explanation-Question-2
