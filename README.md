@@ -173,12 +173,12 @@
     Answer ->
 
 19. #### A solution of intravenous fluid has the following  composition
-    | --------- | 
-    | 100 mM glucose |
-    | 120 mM sodium chloride |
-    | 10 mM potassium chloride |
-    | 5 mM calcium chloride |
-    | 4 mM magnesium chloride |
+| --------- | 
+| 100 mM glucose |
+| 120 mM sodium chloride |
+| 10 mM potassium chloride |
+| 5 mM calcium chloride |
+| 4 mM magnesium chloride |
 
     ##### The osmolality of this solution is approximately
     1. 239 mOsm/ kg H2O
@@ -247,7 +247,7 @@
 
  ##### A university endocrinology clinic diagnosed pheochromocytoma in seven patients in the preceding year. The mean arterial pressures (MAP), in mm Hg, of the seven patients at initial presentation were 120, 130, 135, 145, 150, 150, and 164.
 
- 26. ##### The median of the MAP values is
+26. ##### The median of the MAP values is
     1. 130
     2. 142
     3. 145
