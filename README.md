@@ -12,9 +12,9 @@
     5. 80%
 
     Answer ->(2 option)  50% 
-    ***Explanation*** :: The patient’s alveolar oxygen concentration is estimated from the alveolar gas equation:
-      ![ScreenShot](images/q-1.png)
-    Assuming a value of 0.8 for the respiratory quotient, the patient’s alveolar oxygen concentration would be approximately 222 mm
+***Explanation*** :: The patient’s alveolar oxygen concentration is estimated from the alveolar gas equation:
+    ![ScreenShot](images/q-1.png)
+* Assuming a value of 0.8 for the respiratory quotient, the patient’s alveolar oxygen concentration would be approximately 222 mm
     Hg when breathing 50% oxygen. The patient’s arterial oxygen concentration would therefore be approximately 72 mm Hg.
     
 
