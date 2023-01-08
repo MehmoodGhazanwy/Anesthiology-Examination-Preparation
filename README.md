@@ -182,19 +182,21 @@
     Answer ->
 
 19. #### A solution of intravenous fluid has the following  composition
-    | ---------| 
+    | --------- | 
     | 100 mM glucose |
     | 120 mM sodium chloride |
     | 10 mM potassium chloride |
     | 5 mM calcium chloride |
     | 4 mM magnesium chloride |
 
-    ###### The osmolality of this solution is approximately
+    ##### The osmolality of this solution is approximately
     1. 239 mOsm/ kg H2O
     2.  278 mOsm/ kg H2O
     3.  287 mOsm/ kg H2O
     4. 378 mOsm/ kg H2O
     5.  387 mOsm/ kg H2O
+
+    Answer -> 
 
     ###### DIRECTIONS: Use the following figure to answer Question 20
     ![ScreenShot](images/osmality.png)
@@ -207,5 +209,129 @@
 
     Answer -> 
     
+21. #### The protection device known as a ground fault interrupter is rarely used in operating rooms because it
+    1. protects against microshock but not macroshock injury
+    2. does not function well in a wet environment
+    3. disconnects power to life support equipment
+    4. cannot be tested by the user for proper functioning
+    5. does not have an audible alarm
 
+    Answer -> 
+
+22. #### The Doppler effect is the principle behind numerous monitoring devices. When the source of an audio wave moves toward the observer, the sound
+    1. amplitude decreases
+    2. frequency decreases
+    3. frequency increases
+    4. phase decreases
+    5. phase increases
+
+    Answer -> 
+
+23. #### If two different tissues have the same partial pressure of an anesthetic gas, the concentration of the gas in the tissues will
+    1. differ according to each tissue’s blood flow
+    2. differ according to each tissue’s partition coefficient
+    3. vary according to the atmospheric pressure
+    4. not depend on body temperature
+    5. be the same
+
+    Answer -> 
+
+24. #### When the relative humidity is 100% then
+    1. relative humidity and absolute humidity are equal
+    2. relative humidity and specific humidity are equal
+    3. the relative humidity will decrease if the temperature decreases
+    4. a patient’s perspiration will not evaporate
+
+    answer -> 
+
+25. #### The National Fire Protection Association mandates which one of these standards for operating rooms?
+    1. Isolated power is required in all operating rooms
+    2. Isolated power is required in areas designated as wet locations
+    3. In the event of a power failure, emergency power must become operative within 1 second
+    4. When isolated power is present, a line isolation monitor must also be present
+
+    Answer -> 
+
+#### DIRECTIONS: Use the following scenario to answer Questions 26-27.
+
+ ##### A university endocrinology clinic diagnosed pheochromocytoma in seven patients in the preceding year. The mean arterial pressures (MAP), in mm Hg, of the seven patients at initial presentation were 120, 130, 135, 145, 150, 150, and 164.
+
+ 26. ##### The median of the MAP values is
+    1. 130
+    2. 142
+    3. 145
+    4. 150
+    5. 155
+
+    Answer -> 
+
+27. ##### The sample standard deviation of the MAP values is
+    1. 3.8
+    2. 7.2
+    3. 11.1
+    4. 14.7
+    5. 22.4
+
+    Answer -> 
+
+28. #### Which one of the following intravenous solutions is a colloid?
+    1. lactated Ringer solution
+    2. 0.9% saline
+    3. 7.5% saline
+    4. 5% albumin
+    5. 5% glucose
+
+    Answer -> 
+
+29. #### Of the following intravenous solutions, the one whose osmolality is most different from that of plasma is
+    1. lactated Ringer solution
+    2. 5% glucose
+    3. 2.5% glucose + 0.45% saline
+    4. 0.9% saline
+    5. 5% glucose + 0.45% saline
+
+    Answer -> 
+
+30. #### If the skin resistance between a person’s arms is 6000 ohms, and the person’s right arm is connected to an earth ground, and 120 V are applied to his/ her left arm, the current flowing from arm to arm will be
+    1. nearly 0 if the 120 V are supplied by a grounded electrical system
+    2. 20 mA if the 120 V are supplied by a grounded electrical system
+    3. 20 mA if the 120 V are supplied by an isolated electrical system
+    4. 50 mA if the 120 V are supplied by an isolated electrical system
+    5. 50 A if the 120 V are supplied by an isolated electrical system
+
+    Answer -> 
+
+####  DIRECTIONS (Questions 31-34): Each group of items below consists of lettered headings followed by a list of numbered phrases or statements. For each numbered phrase or statement, select the ONE lettered heading or component that is most closely associated with it. Each lettered heading or component may be selected once, more than once, or not at all.
+
+1. Volt
+2. Ampere
+3. Joule
+4. Henry
+5. Farad
+6. Ohm
+7. Coulomb
+8. Watt
+9. Sievert
+10. Gray
+11. Hertz
+12. Newton
+13. No unit
+
+###### For each measurement, select the appropriate unit.
+
+31. ##### The amount of radiation to which a patient is exposed while undergoing a CT scan.
+
+Answer -> 
+
+32. ##### The baricity of a local anesthetic solution for spinal anesthesia.
+
+Answer -> 
+
+33. ##### The electrical power used by a warming blanket.
+
+Answer -> 
+
+34. ##### The electrical impedance of an anesthesiologist measured from the person’s left hand to right hand.
+
+Answer -> 
     
