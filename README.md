@@ -341,6 +341,7 @@ Answer ->(8) The unit of electrical power is the Watt.
 Answer ->(6) The unit of electrical resistance is the Ohm.
 
 -------------------------------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------------------------------- 
 
 ##### Explanation-Question-2
     A volume of 2 mL of sevoflurane liquid has a mass of 3.04 g corresponding to 0.0152 moles.  
@@ -348,14 +349,20 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
     volume of 0.365 L of sevoflurane vapor in the 3-L reservoir bag represents a concentration of 12.2%. 
 
 ##### Explanation-Question-3
-    The four mechanisms of heat loss are conduction, convection, radiation, and evaporation. Sublimation is the phase transition
-    between a solid and a gas.  
+    The four mechanisms of heat loss are conduction, convection, radiation, and evaporation. Sublimation is the phase 
+    transition between a solid and a gas.  
+
 
 ##### Explanation-Question-4
-    Of the tests listed, only the chi squared text compares proportions (in this case, the proportion of patients vomiting) in two populations. Student’s t-test and analysis of variance compare means in two populations, while the Mann-Whitney test is a nonparametric test that assesses whether one population has larger values than another.  
+    Of the tests listed, only the chi squared text compares proportions (in this case, the proportion of patients vomiting) 
+    in two populations. Student’s t-test and analysis of variance compare means in two populations, while the Mann-Whitney 
+    test is a nonparametric test that assesses whether one population has larger values than another.  
+
 
 ##### Explanation-Question-5
-    The three extension cords represent capacitors connected in parallel. When capacitors are connected in parallel, their capacitances are added.   
+    The three extension cords represent capacitors connected in parallel. When capacitors are connected in parallel,
+    their capacitances are added.     
 
 ##### Explanation-Question-6
-    The three extension cords represent reactances connected in parallel. When three identical reactance values are connected in parallel, the resulting reactance value is one-third that of each individual unit..
+    The three extension cords represent reactances connected in parallel. When three identical reactance values 
+    are connected in parallel, the resulting reactance value is one-third that of each individual unit..
