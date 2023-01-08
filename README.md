@@ -173,19 +173,19 @@
     Answer ->
 
 19. #### A solution of intravenous fluid has the following  composition
-| --------- | 
-| 100 mM glucose |
-| 120 mM sodium chloride |
-| 10 mM potassium chloride |
-| 5 mM calcium chloride |
-| 4 mM magnesium chloride |
+   
+    * 100 mM glucose 
+    * 120 mM sodium chloride 
+    * 10 mM potassium chloride 
+    * 5 mM calcium chloride 
+    * 4 mM magnesium chloride 
 
-    ##### The osmolality of this solution is approximately
+    **The osmolality of this solution is approximately**
     1. 239 mOsm/ kg H2O
-    2.  278 mOsm/ kg H2O
-    3.  287 mOsm/ kg H2O
+    2. 278 mOsm/ kg H2O
+    3. 287 mOsm/ kg H2O
     4. 378 mOsm/ kg H2O
-    5.  387 mOsm/ kg H2O
+    5. 387 mOsm/ kg H2O
 
     Answer -> 
 
