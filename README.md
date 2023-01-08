@@ -91,19 +91,8 @@
 
 #### DIRECTIONS: Use the following table to answer Questions 10-12:
 
-     | Browser | Version |
-     |---- | --------- |
-     | Chrome | latest |
-     | Firefox | latest |
-     | Edge | 2 most recent major versions |
-     | IE | 11, 10, 9 (Compatibility mode is not supported) |
-     | Safari | 2 most recent major versions |
-     | IE Mobile | 11 |
-     | iOS | 2 most recent major versions |
-     | Android | 7.0, 6.0, 5.0, 5.1, 4.4 |
-
     | Gas or vapor | Viscosity(centipoises) | Molecular weight(g/mol) | Density(kg/m3) | Boiling point(C) |
-    | ------ | ------ | ------ | ------ | ------ |
+    | :---------: | :-------: | :-------: | :------: | :------: |
     | Argon | 0.022 | 39.9 | 1.66 | −186 |
     | Carbon dioxide | 0.0145 | 44 | 1.82 | −57 |
     | Diethyl ether | 0.00075 | 74 | 3.08 | 35 | 
