@@ -96,7 +96,7 @@
     | Argon | 0.022 | 39.9 | 1.66 | −186 |
     | Carbon dioxide | 0.0145 | 44 | 1.82 | −57 |
     | Diethyl ether | 0.00075 | 74 | 3.08 | 35 | 
-    | Helium | 0.0188 |  4 |  0.166 |  −269 |
+    | Helium | 0.0188 | 4 | 0.166 | −269 |
     | Nitrogen | 0.0175 | 28 | 1.16 | −196 |
     | Nitrous oxide | 0.0133 | 44 | 1.83 | −88 |
     | Oxygen | 0.020 | 32 | 1.33 | −183 |
@@ -110,4 +110,102 @@
     5. xenon
 
     Answer - >
+
+11. #####  A patient with an intraluminal tracheal tumor has severe narrowing of the airway resulting in an air passage resem bling a pinhole. Compared with breathing 100% oxygen, for a given inspiratory force, airflow will be increased to the greatest degree by diluting the oxygen with
+    1. diethyl ether
+    2. carbon dioxide
+    3. helium
+    4. xenon
+    5. nitrous oxide
+
+    Answer -> 
+
+12. ##### Ordinarily it is not permissible to use a rotameter designed for one gas to control the flow of another gas. In a military field hospital without spare parts, a biomedical engineer wishes to cannibalize other equipment to replace a broken oxygen flowmeter. Although not a perfect match, the best replacement for the broken oxygen rotameter would be one designed to control the flow of
+    1. argon
+    2. helium
+    3. nitrogen
+    4. nitrous oxide
+    5. carbon dioxide
+
+    Answer -> 
+
+13. #### Regarding the critical temperature of nitrous oxide in an E cylinder attached to an anesthesia machine in an operating room, the critical temperature
+    1. is not relevant in an operating room environment
+    2. is the temperature in the tank that permits nitrous oxide to exist as a liquid
+    3. cannot be exceeded without risking tank rupture
+    4. is the temperature above which nitrous oxide cannot exist as a liquid
+    5.is the temperature at which nitrous oxide liquid becomes a gas
+
+    Answer ->
+
+14. #### An anesthesia tech accidentally left the oxygen flowmeter set at 15 L/ min on a Friday afternoon and the oxygen flowed at this rate through the absorber all weekend. On Monday morning, when 10% desflurane in 100% oxygen is administered, the patient may be exposed to a toxic concentration of
+    1. ozone
+    2. phosgene
+    3. carbon dioxide
+    4. carbon monoxide
+    5. fluoride
+
+    Answer ->
+
+15. #### A cylinder of oxygen has an internal volume of 6 L and a pressure of 1700 psi. How many liters of oxygen will this tank supply at sea level?
+    1. 660 L
+    2. 680 L
+    3. 694 L
+    4. 706 L
+    5. 716 L
+
+    Answer -> 
+
+16. #### A patient is undergoing operative repair of an arm fracture. The anesthesiologist is standing four feet from the patient’s arm. The surgeon is using fluoroscopy to visualize the fracture. Assume the amount of radiation to which the anesthesiologist is exposed is x. If the anesthesiologist moves to a new position eight feet from the arm, then the amount of radiation exposure will decrease to approximately
+    1. 0.75x
+    2. 0.5x
+    3. 0.33x
+    4. 0.25x
+    5. 0.125x
+
+    Answer -> 
+
+17. #### The absorption of one molecule of carbon dioxide by soda lime causes the net production of how many molecules of water?
+    1. 0
+    2. 1
+    3. 2
+    4. 3
+    5. 4
+
+18. #### The current delivered to the patient by an electrocautery device differs from the current supplied by an electrical utility in its
+    1. capacitance
+    2. frequency
+    3. amperage
+    4. voltage
+    5. power
+
+    Answer ->
+
+19. #### A solution of intravenous fluid has the following  composition
+    | ---------| 
+    | 100 mM glucose |
+    | 120 mM sodium chloride |
+    | 10 mM potassium chloride |
+    | 5 mM calcium chloride |
+    | 4 mM magnesium chloride |
+
+    ###### The osmolality of this solution is approximately
+    1. 239 mOsm/ kg H2O
+    2.  278 mOsm/ kg H2O
+    3.  287 mOsm/ kg H2O
+    4. 378 mOsm/ kg H2O
+    5.  387 mOsm/ kg H2O
+
+    ###### DIRECTIONS: Use the following figure to answer Question 20
+    ![ScreenShot](images/osmality.png)
+
+20. ###### In an intubated patient connected to an anesthesia machine, mechanical dead space consists of the volume of the endotracheal tube proximal to the teeth plus which one (or more) of the volumes indicated in the figure? The different volumes are indicated by the different shadings as shown in the legend in the lower left of the figure.
+    1. 1
+    2. 1 + 2
+    3. 1 + 2 + 3
+    4. 1 + 2 + 3 + 4
+
+    Answer -> 
+    
+
     
