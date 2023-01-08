@@ -27,7 +27,7 @@
     5. 18.5%
     
     Answer ->(1 option )12.2 %  
-    *** Expanation *** (#explanation-Question-2)
+    [Explanation](#explanation-Question-2)
 
 
 3. #### In the typical operating room, patients lose heat via all of the following mechanisms EXCEPT
