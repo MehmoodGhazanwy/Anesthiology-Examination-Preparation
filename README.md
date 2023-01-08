@@ -90,6 +90,7 @@
     Answer -> 
 
 #### DIRECTIONS: Use the following table to answer Questions 10-12:
+
      | Browser | Version |
      |---- | --------- |
      | Chrome | latest |
@@ -101,16 +102,16 @@
      | iOS | 2 most recent major versions |
      | Android | 7.0, 6.0, 5.0, 5.1, 4.4 |
 
-        | Gas or vapor | Viscosity(centipoises) | Molecular weight(g/mol) | Density(kg/m3) | Boiling point(C) |
-        | ------ | ------ | ------ | ------ | ------ |
-        | Argon | 0.022 | 39.9 | 1.66 | −186 |
-        | Carbon dioxide | 0.0145 | 44 | 1.82 | −57 |
-        | Diethyl ether | 0.00075 | 74 | 3.08 | 35 | 
-        | Helium | 0.0188 |  4 |  0.166 |  −269 |
-        | Nitrogen | 0.0175 | 28 | 1.16 | −196 |
-        | Nitrous oxide | 0.0133 | 44 | 1.83 | −88 |
-        | Oxygen | 0.020 | 32 | 1.33 | −183 |
-        | Xenon | 0.022 | 131 | 5.46 | −108 |
+    | Gas or vapor | Viscosity(centipoises) | Molecular weight(g/mol) | Density(kg/m3) | Boiling point(C) |
+    | ------ | ------ | ------ | ------ | ------ |
+    | Argon | 0.022 | 39.9 | 1.66 | −186 |
+    | Carbon dioxide | 0.0145 | 44 | 1.82 | −57 |
+    | Diethyl ether | 0.00075 | 74 | 3.08 | 35 | 
+    | Helium | 0.0188 |  4 |  0.166 |  −269 |
+    | Nitrogen | 0.0175 | 28 | 1.16 | −196 |
+    | Nitrous oxide | 0.0133 | 44 | 1.83 | −88 |
+    | Oxygen | 0.020 | 32 | 1.33 | −183 |
+    | Xenon | 0.022 | 131 | 5.46 | −108 |
 
 10. ##### Due to an allergic reaction, a patient has severe tracheal edema that uniformly narrows the trachea from the vocal cord s to the carina. Compared with breathing 100% oxygen, for a given inspiratory force, airflow will be increased to the greatest degree by diluting the oxygen with
     1. helium
