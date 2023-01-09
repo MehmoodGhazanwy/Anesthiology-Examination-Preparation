@@ -62,8 +62,8 @@
     5. 0.15 μF
 
     Answer -> 0.15 μF 
-    [Explanation](#Explanation-Question-5) 
-
+    [Explanation](#Explanation-Question-5)  
+    
 6. ##### What is the value of the capacitive reactance in the circuit?
     1. 17.7 kilohms
     2. 26.5 kilohms
@@ -72,8 +72,8 @@
     5. 159 kilohms
 
     Answer -> 17.7 
-    [Explanation](#Explanation-Question-6)
-
+    [Explanation](#Explanation-Question-6)  
+    
 7. ##### Will the line isolation monitor alarm? 
     1. No, because the leakage current is less than 1 mA
     2. No, because the leakage current is less than 5 mA.
@@ -82,7 +82,7 @@
     5. Yes, because the leakage current is greater than 10 mA.
 
     Answer -> (option 4 ) Yes, because the leakage current is greater than 5 mA  
-    *** Explanation *** 
+    ***Explanation*** 
     The leakage current due to the extension cords will be given by Ohm’s law, I = E/ Z,  
     where I is current in amperes, E is voltage in volts, and Z is impedance in ohms.
     In this circuit, since the only contribution to impedance is capacitive reactance, 
@@ -98,7 +98,7 @@
     5. studies numerous independent parameters that evaluate an intervention (e.g., drug treatment)
 
     Answe -> combines the results from several similar studies  
-    *** Explanation ***  
+    ***Explanation***  
     In a meta-analysis, several studies that measured similar outcome variable(s) 
     are combined, typically to increase the statistical power that is derived
     from a larger number of study subjects.  
@@ -111,7 +111,7 @@
     5. 1.5 A
 
     Answer ->  15 mA  
-    *** Explanation *** 
+    ***Explanation*** 
     When electrical currents of 10-20 mA are applied to the upper extremity, 
     sustained muscle contraction occurs of a magnitude that cannot be overcome.
     If the individual is holding onto a wire, he or she probably will not be
@@ -409,7 +409,7 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
 ##### Explanation-Question-10
     Laminar flow in a tube is governed by Poiseuille’s law that relates laminar flow to the 4th 
     power of the radius:    
-![CustomElement](images/q-10.png)        
+![CustomElement](images/q-10.png)      
    
     where p is the p ressure, r is the radius of the tube,
     v is the viscosity of the gas, and l is the length of the tube.
