@@ -410,7 +410,7 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
     Laminar flow in a tube is governed by Poiseuille’s law that relates laminar flow to the 4th 
     power of the radius:  
 
-   ![ScreenShot](images/q-10.png) 
+   ![ScreenShot](images/qs-10.png) 
    
     where p is the p ressure, r is the radius of the tube,
     v is the viscosity of the gas, and l is the length of the tube.
