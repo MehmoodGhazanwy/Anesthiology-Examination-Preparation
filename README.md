@@ -138,7 +138,8 @@
     4. xenon
     5. nitrous oxide
 
-    Answer -> helium 
+    Answer -> helium  
+    [Explanation](#Explanation-Question-11)
 
 12. ##### Ordinarily it is not permissible to use a rotameter designed for one gas to control the flow of another gas. In a military field hospital without spare parts, a biomedical engineer wishes to cannibalize other equipment to replace a broken oxygen flowmeter. Although not a perfect match, the best replacement for the broken oxygen rotameter would be one designed to control the flow of
     1. argon
@@ -147,7 +148,8 @@
     4. nitrous oxide
     5. carbon dioxide
 
-    Answer -> helium
+    Answer -> helium  
+    [Explanation](#Explanation-Question-12)
 
 13. #### Regarding the critical temperature of nitrous oxide in an E cylinder attached to an anesthesia machine in an operating room, the critical temperature
     1. is not relevant in an operating room environment
@@ -156,7 +158,8 @@
     4. is the temperature above which nitrous oxide cannot exist as a liquid
     5. is the temperature at which nitrous oxide liquid becomes a gas
 
-    Answer -> is the temperature above which nitrous oxide cannot exist as a liquid
+    Answer -> is the temperature above which nitrous oxide cannot exist as a liquid  
+    [Explanation](#Explanation-Question-13)
 
 14. #### An anesthesia tech accidentally left the oxygen flowmeter set at 15 L/ min on a Friday afternoon and the oxygen flowed at this rate through the absorber all weekend. On Monday morning, when 10% desflurane in 100% oxygen is administered, the patient may be exposed to a toxic concentration of
     1. ozone
@@ -165,7 +168,8 @@
     4. carbon monoxide
     5. fluoride
 
-    Answer -> carbon monoxide
+    Answer -> carbon monoxide  
+    [Explanation](#Explanation-Question-14)
 
 15. #### A cylinder of oxygen has an internal volume of 6 L and a pressure of 1700 psi. How many liters of oxygen will this tank supply at sea level?
     1. 660 L
@@ -174,7 +178,8 @@
     4. 706 L
     5. 716 L
 
-    Answer -> 694 L
+    Answer -> 694 L  
+    [Explanation](#Explanation-Question-15)
 
 16. #### A patient is undergoing operative repair of an arm fracture. The anesthesiologist is standing four feet from the patient’s arm. The surgeon is using fluoroscopy to visualize the fracture. Assume the amount of radiation to which the anesthesiologist is exposed is x. If the anesthesiologist moves to a new position eight feet from the arm, then the amount of radiation exposure will decrease to approximately
     1. 0.75x
@@ -183,7 +188,8 @@
     4. 0.25x
     5. 0.125x
 
-    Answer ->  0.25x
+    Answer ->  0.25x  
+    [Explanation](#Explanation-Question-16)
 
 17. #### The absorption of one molecule of carbon dioxide by soda lime causes the net production of how many molecules of water?
     1. 0
@@ -192,7 +198,8 @@
     4. 3
     5. 4
 
-    Answer ->(2 option) 1
+    Answer ->(2 option) 1  
+    [Explanation](#Explanation-Question-17)
 
 18. #### The current delivered to the patient by an electrocautery device differs from the current supplied by an electrical utility in its
     1. capacitance
@@ -201,7 +208,8 @@
     4. voltage
     5. power
 
-    Answer -> frequency
+    Answer -> frequency  
+    [Explanation](#Explanation-Question-18)
 
 19. #### A solution of intravenous fluid has the following  composition
    
@@ -209,7 +217,7 @@
     * 120 mM sodium chloride 
     * 10 mM potassium chloride 
     * 5 mM calcium chloride 
-    * 4 mM magnesium chloride 
+    * 4 mM magnesium chloride  
 
     **The osmolality of this solution is approximately**
     1. 239 mOsm/ kg H2O
@@ -218,7 +226,8 @@
     4. 378 mOsm/ kg H2O
     5. 387 mOsm/ kg H2O
 
-    Answer -> 387 mOsm/ kg H2O
+    Answer -> 387 mOsm/ kg H2O  
+    [Explanation](#Explanation-Question-19)
 
     ###### DIRECTIONS: Use the following figure to answer Question 20
     ![ScreenShot](images/osmality.png)
@@ -229,7 +238,8 @@
     3. 1 + 2 + 3
     4. 1 + 2 + 3 + 4
 
-    Answer -> 1
+    Answer -> 1  
+    [Explanation](#Explanation-Question-20)
     
 21. #### The protection device known as a ground fault interrupter is rarely used in operating rooms because it
     1. protects against microshock but not macroshock injury
@@ -238,7 +248,8 @@
     4. cannot be tested by the user for proper functioning
     5. does not have an audible alarm
 
-    Answer -> disconnects power to life support equipment
+    Answer -> disconnects power to life support equipment  
+    [Explanation](#Explanation-Question-21)
 
 22. #### The Doppler effect is the principle behind numerous monitoring devices. When the source of an audio wave moves toward the observer, the sound
     1. amplitude decreases
@@ -247,7 +258,8 @@
     4. phase decreases
     5. phase increases
 
-    Answer -> frequency increases
+    Answer -> frequency increases  
+    [Explanation](#Explanation-Question-22)
 
 23. #### If two different tissues have the same partial pressure of an anesthetic gas, the concentration of the gas in the tissues will
     1. differ according to each tissue’s blood flow
@@ -256,7 +268,8 @@
     4. not depend on body temperature
     5. be the same
 
-    Answer -> differ according to each tissue’s partition coefficient
+    Answer -> differ according to each tissue’s partition coefficient  
+    [Explanation](#Explanation-Question-23)
 
 24. #### When the relative humidity is 100% then
     1. relative humidity and absolute humidity are equal
@@ -264,7 +277,8 @@
     3. the relative humidity will decrease if the temperature decreases
     4. a patient’s perspiration will not evaporate
 
-    answer -> a patient’s perspiration will not evaporate
+    answer -> a patient’s perspiration will not evaporate  
+    [Explanation](#Explanation-Question-24)
 
 25. #### The National Fire Protection Association mandates which one of these standards for operating rooms?
     1. Isolated power is required in all operating rooms
@@ -272,7 +286,8 @@
     3. In the event of a power failure, emergency power must become operative within 1 second
     4. When isolated power is present, a line isolation monitor must also be present
 
-    Answer -> Isolated power is required in areas designated as wet locations
+    Answer -> Isolated power is required in areas designated as wet locations  
+    [Explanation](#Explanation-Question-25)
 
 #### DIRECTIONS: Use the following scenario to answer Questions 26-27.
 
@@ -285,7 +300,8 @@
     4. 150
     5. 155
 
-    Answer -> 145
+    Answer -> 145  
+    [Explanation](#Explanation-Question-26)
 
 27. ##### The sample standard deviation of the MAP values is
     1. 3.8
@@ -294,7 +310,8 @@
     4. 14.7
     5. 22.4
 
-    Answer -> 14.7
+    Answer -> 14.7  
+    [Explanation](#Explanation-Question-27)
 
 28. #### Which one of the following intravenous solutions is a colloid?
     1. lactated Ringer solution
@@ -303,7 +320,8 @@
     4. 5% albumin
     5. 5% glucose
 
-    Answer -> 5% albumin
+    Answer -> 5% albumin  
+    [Explanation](#Explanation-Question-28)
 
 29. #### Of the following intravenous solutions, the one whose osmolality is most different from that of plasma is
     1. lactated Ringer solution
@@ -312,7 +330,8 @@
     4. 0.9% saline
     5. 5% glucose + 0.45% saline
 
-    Answer -> 5% glucose + 0.45% saline
+    Answer -> 5% glucose + 0.45% saline  
+    [Explanation](#Explanation-Question-29)
 
 30. #### If the skin resistance between a person’s arms is 6000 ohms, and the person’s right arm is connected to an earth ground, and 120 V are applied to his/ her left arm, the current flowing from arm to arm will be
     1. nearly 0 if the 120 V are supplied by a grounded electrical system
@@ -321,7 +340,8 @@
     4. 50 mA if the 120 V are supplied by an isolated electrical system
     5. 50 A if the 120 V are supplied by an isolated electrical system
 
-    Answer -> 20 mA if the 120 V are supplied by a grounded electrical system
+    Answer -> 20 mA if the 120 V are supplied by a grounded electrical system  
+    [Explanation](#Explanation-Question-30)
 
 ####  DIRECTIONS (Questions 31-34): Each group of items below consists of lettered headings followed by a list of numbered phrases or statements. For each numbered phrase or statement, select the ONE lettered heading or component that is most closely associated with it. Each lettered heading or component may be selected once, more than once, or not at all.
 
@@ -343,7 +363,7 @@
 
 31. ##### The amount of radiation to which a patient is exposed while undergoing a CT scan.
 
-Answer -> (9) The unit of rad iation exposure is the Sievert.
+Answer -> (9) The unit of rad iation exposure is the Sievert.  
 
 32. ##### The baricity of a local anesthetic solution for spinal anesthesia.
 
@@ -389,12 +409,129 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
 ##### Explanation-Question-10
     Laminar flow in a tube is governed by Poiseuille’s law that relates laminar flow to the 4th 
     power of the radius:    
-        Flow =  $\frac{πpr^4}{8vl}
-
-    ![equation](http://latex.codecogs.com/gif.latex?Flow%3D%5Cfrac%7Bπpr^4%7D%7B8vl%7D) 
+![CustomElement](images/ques-10.png)        
    
     where p is the p ressure, r is the radius of the tube,
     v is the viscosity of the gas, and l is the length of the tube.
     Since flow is inversely proportional to viscosity, the flow will be increased to
     the greatest degree by diluting oxygen with nitrous oxide, the gas that has the 
     lowest viscosity among the choices
+
+##### Explanation-Question-11
+    (option 3)Gas flow through a pinhole results in turbulent flow that is inversely 
+    proportional to density. Thus, helium, the least dense gas of those listed, would 
+    provide the greatest increase in flow when used to dilute oxygen.
+
+##### Explanation-Question-12
+    (option 2)The proper functioning of a rotameter tube depends on laminar flow in the 
+    tube that is governed by Poiseuille’s law. Therefore the closest replacement rotameter
+    would be for helium, the gas with the viscosity closest to that of oxygen.
+
+##### Explanation-Question-13
+    (option 4)The critical temperature of nitrous oxide is the temperature at which it boils 
+    into a gas,regard less of the pressure in the tank. For nitrous oxide, that temperature 
+    is 36.5°C, a temperature that could easily be reached in an operating room without 
+    air conditioning.
+
+##### Explanation-Question-14
+    (option 4)Desflurane, but not sevoflurane, may react with dry soda lime to yield a 
+    potentially toxic concentration of carbon monoxide. The reaction of trichloroethylene,
+    an obsolete anesthetic agent, yielded phosgene.
+
+##### Explanation-Question-15
+    (option 3)At constant temperature, the product of the pressure and volume of a gas 
+    is constant (Boyle’s law). Thus, the volume of gas at sea level where the atmospheric
+    pressure is 14.7 psi will be (1700 psi) × (6 L)/ (14.7 psi) = 694 L.
+
+##### Explanation-Question-16
+    (option 4)Radiation intensity decreases as a function of the square of the distance. 
+    Thus, by doubling the distance between the patient and the anesthesiologist, the amount
+    of the radiation exposure will decrease to one-fourth its previous value.
+
+##### Explanation-Question-17
+    (second option ).A molecule of carbon dioxide reacts with one molecule of water to form carbonic 
+    acid.The reaction of one molecule of carbonic acid with two molecules of sodium hydroxide 
+    produces two molecules of water. Therefore, there is the net production of one 
+    molecule of water.
+
+##### Explanation-Question-18
+    (option 2) The standard frequency used by electrical utilities in the United States is 60 Hz,
+    while the current delivered by an electrocautery device is in the range of 105 – 106 Hz.
+
+##### Explanation-Question-19
+    (option 5) Osmolality is the concentration of osmotically active particles per kilogram of 
+    solvent.At both room and body temperatures, the difference between 1 L of water and 1 kg 
+    of water can be ignored. Glucose does not dissociate in solution so its osmotic
+    concentration is its molar concentration. Sodium chloride and potassium chloride each 
+    dissociate into two osmotically active particles, while calcium chloride and magnesium
+    chloride each dissociate into three osmotically active particles. The total osmolality 
+    is therefore approximately 100 + 240 + 20 + 15 + 12 = 387 mOsm/ kg H2O.
+
+##### Explanation-Question-20
+    (option 1) Mechanical dead space in this patient is the sum of the volume of the 
+    endotracheal tube proximal to the teeth plus the volume of the arm of the Y-connector.
+    None of the other volumes in the circle system contribute to mechanical dead space.
+
+##### Explanation-Question-21
+    (option 3) A ground fault interrupter provides excellent protection against injury 
+    from macroshock (but not microshock). It has a “test” button to confirm proper 
+    functioning. Although it does not have an audible alarm, that is not the reason
+    why it is rarely used in operating rooms. A ground fault interrupter protects the
+    user by disconnecting power to the devices connected to it. These devices may 
+    include life support equipment in an operating room.
+
+##### Explanation-Question-22
+    (option 3) The definition of the Doppler effect is that when the source of an 
+    audio wave moves toward the observer, the frequency of the sound increases.
+
+##### Explanation-Question-23
+    (option 2) The definition of partition coefficient is the ratio of the 
+    concentrations of a substance in two contiguous compartments at steady state 
+    (i.e., when the partial pressure of the substance is equal in both compartments). 
+    Partition coefficients vary according to temperature but not according to 
+    atmospheric pressure.
+
+##### Explanation-Question-24
+    (option 4) Absolute humidity is the amount of water vapor in air, in units of
+    mass/ volume. Specific humidity is the ratio of the mass of water vapor in 
+    a volume of air to the mass of that volume of air. Relative humidity is the ratio of 
+    the partial pressure of water vapor in air to the saturated (maximum) partial 
+    pressure of water vapor at the same temperature and pressure. Since the maximum water
+    vapor content of air increases with temperature, if the temperature of a saturated 
+    volume of air is decreased, water vapor will condense into droplets forming fog,
+    but the relative humidity will remain 100%.When a patient is placed in an atmosphere of
+    100% relative humidity, perspiration will not evaporate and there will be no evaporative
+    heat loss (as long as the volume of the saturated air is large enough such that the patient’s
+    body temperature does not raise the air temperature by conduction or convection).
+
+##### Explanation-Question-25
+    (option 2) Isolated power is required only in wet areas. Line isolation monitors are not
+    required,nor is the instantaneous (i.e., < 1 sec) availability of emergency backup power.
+
+##### Explanation-Question-26
+    (option 3)The median value is the value that falls in the middle of the subjects’ 
+    values. In this group of seven patients, the median value is 145 because there are
+    three values lower (120,130, and 135) and three values higher (150, 150,and 164).
+
+##### Explanation-Question-27
+    (option 4)The sample standard deviation, s, is given by the following equation:
+        
+   ![CustomElement](images/q-27.png)
+
+    where N is the number of observations, x – is the mean, and xi represents each
+    individual observation. The sum of the squares of the differences is 1298,
+    thus the sample standard deviation is 14.7.
+
+##### Explanation-Question-28
+    (option 4)Colloid solutions contain solutes of high molecular weight (e.g., > 30 kDa).
+
+##### Explanation-Question-29
+    (option 5)The osmolality of 5% glucose + 0.45% saline is approximately 50% greater 
+    than that of plasma. The other four solutions have approximately the same osmolality
+    as plasma.
+
+##### Explanation-Question-30
+    (option 2) Current will flow only if both the patient and the electrical system are
+    grounded. The magnitude of the current is given by Ohm’s law that states that 
+    current (in amps) equals the voltage (in volts) divided by the resistance (in ohms).
+    Thus, the current will equal 120 V/6000 ohms or 0.02 A, that is 20 mA.
