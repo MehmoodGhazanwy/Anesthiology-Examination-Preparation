@@ -515,10 +515,8 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
     three values lower (120,130, and 135) and three values higher (150, 150,and 164).
 
 ##### Explanation-Question-27
-    (option 4)The sample standard deviation, s, is given by the following equation:
-        
-   ![ScreenShot](images/q-27.png)
-   ![ScreenShot](images/qs-10.png) 
+    (option 4)The sample standard deviation, s, is given by the following equation:        
+   ![ScreenShot](images/qs-27.png) 
 
     where N is the number of observations, x – is the mean, and xi represents each
     individual observation. The sum of the squares of the differences is 1298,
