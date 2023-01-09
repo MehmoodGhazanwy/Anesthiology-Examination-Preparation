@@ -518,6 +518,7 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
     (option 4)The sample standard deviation, s, is given by the following equation:
         
    ![ScreenShot](images/q-27.png)
+   ![ScreenShot](images/qs-10.png) 
 
     where N is the number of observations, x – is the mean, and xi represents each
     individual observation. The sum of the squares of the differences is 1298,
