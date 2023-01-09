@@ -62,8 +62,8 @@
     5. 0.15 μF
 
     Answer -> 0.15 μF 
-    [Explanation](#Explanation-Question-5)  
-    
+    [Explanation](#Explanation-Question-5)   
+        
 6. ##### What is the value of the capacitive reactance in the circuit?
     1. 17.7 kilohms
     2. 26.5 kilohms
@@ -408,8 +408,9 @@ Answer ->(6) The unit of electrical resistance is the Ohm.
 
 ##### Explanation-Question-10
     Laminar flow in a tube is governed by Poiseuille’s law that relates laminar flow to the 4th 
-    power of the radius:    
-![CustomElement](images/q-10.png)      
+    power of the radius:  
+
+   ![CustomElement](images/q-10.png)      
    
     where p is the p ressure, r is the radius of the tube,
     v is the viscosity of the gas, and l is the length of the tube.
