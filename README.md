@@ -47,7 +47,7 @@
     4. chi squared
     5. Wilcoxon rank-sum test
 
-    Answer -> chi squared
+    Answer -> chi squared   
     [Explanation](#Explanation-Question-4)
 
 ### Questions 5-7:
@@ -61,7 +61,7 @@
     4. 0.10 μF
     5. 0.15 μF
 
-    Answer -> 0.15 μF 
+    Answer -> 0.15 μF     
     [Explanation](#Explanation-Question-5)   
         
 6. ##### What is the value of the capacitive reactance in the circuit?
